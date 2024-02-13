@@ -5,6 +5,8 @@ import 'package:common/common.dart';
 class LoginPage extends StatelessWidget {
   get scaffoldKey => null;
 
+  // My feature
+
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
